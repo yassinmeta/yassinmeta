@@ -1,76 +1,99 @@
 <div align="center">
 
-  <!-- الصورة الشخصية مع دمج التنسيق الدائري -->
-  <img src="IMG-20251104-WA0046.jpg.jpeg" alt="Mohamed Yassine Sellak" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+  <!-- الصورة الشخصية دائرية ومضبوطة بشكل ممتاز -->
+  <a href="https://yassinmeta.com" target="_blank">
+    <img 
+      src="IMG-20251104-WA0046.jpg.jpeg" 
+      alt="Mohamed Yassine Sellak" 
+      width="180" 
+      height="180" 
+      style="border-radius: 50%; object-fit: cover; object-position: center; border: 3px solid #00f2fe; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);" 
+    />
+  </a>
 
   <br /><br />
 
-  <h1> ⚡ Mohamed Yassine Sellak ⚡ </h1>
-
-  <h3>Full-Stack Developer | AI & Business Systems Automation Specialist</h3>
-
-  <br />
-
-  <p>Empowering businesses through scalable software, automated workflows, and high-converting Web/AI solutions.</p>
-
-  <br />
+  <!-- الاسم والصفة -->
+  <h1>⚡ Mohamed Yassine Sellak ⚡</h1>
 
   <p align="center">
+    <b>Full-Stack Developer | AI & Business Systems Automation Specialist</b>
+  </p>
+
+  <p align="center">
+    <i>Empowering businesses through scalable software, automated workflows, and high-converting Web/AI solutions.</i>
+  </p>
+
+  <br />
+
+  <!-- أزرار التواصل والموقع الإلكتروني -->
+  <p align="center">
     <a href="https://yassinmeta.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-yassinmeta.com-%23000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+      <img src="https://img.shields.io/badge/WEBSITE-yassinmeta.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
     &nbsp;
     <a href="https://linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Yassine%20Sellak-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LINKEDIN-YASSINE%20SELLAK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://x.com" target="_blank">
-      <img src="https://img.shields.io/badge/X-@yassinmeta-%23000000?style=for-the-badge&logo=X&logoColor=white" alt="X">
+    <a href="https://x.com/yassinmeta" target="_blank">
+      <img src="https://img.shields.io/badge/X-@YASSINMETA-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
   </p>
 
 </div>
 
+<br />
+
 ---
 
-### 🛠️ Core Technologies & Tools
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-  <h4>Frontend & UI</h4>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-
-  <br /><br />
-
-  <h4>Backend & Database</h4>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
-  <br /><br />
-
-  <h4>Deployment & Automation</h4>
-  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/n8n-%23FF6584.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h4>Frontend & UI</h4>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </td>
+      <td align="center" width="33%">
+        <h4>Backend & Database</h4>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white" />
+      </td>
+      <td align="center" width="33%">
+        <h4>Automation & Cloud</h4>
+        <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/AI_Workflows-00F2FE?style=flat-square&logo=openai&logoColor=black" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinmeta&show_icons=true&theme=dark" alt="Yassine's GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinmeta&layout=compact&theme=dark" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinmeta&show_icons=true&theme=dark&hide_border=true&title_color=00f2fe&icon_color=00f2fe" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinmeta&layout=compact&theme=dark&hide_border=true&title_color=00f2fe" alt="Top Languages" width="45%" />
 </div>
+
+<br />
 
 ---
 
 <p align="center">
-  <i>🚀 Open for freelance projects and high-value automation contracts at <b>yassinmeta.com</b></i>
+  💼 <b>Available for freelancing & custom AI business automation projects:</b> <a href="https://yassinmeta.com">yassinmeta.com</a>
 </p>
