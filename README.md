@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- الصورة الشخصية مع دمج التنسيق الدائري -->
-  <img src="IMG-20251104-WA0046.jpg.jpe" alt="Mohamed Yassine Sellak" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+  <img src="IMG-20251104-WA0046.jpg.jpeg" alt="Mohamed Yassine Sellak" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
 
   <br /><br />
 
