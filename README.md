@@ -6,9 +6,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,25:0d1b2a,60:0e2a3a,100:00f2fe&height=230&section=header&text=MOHAMED%20YASSINE%20SELLAK&fontSize=38&fontColor=00f2fe&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Business%20Systems%20Automation%20Specialist&descAlignY=54&descSize=16&descColor=b8ecff&animation=fadeIn" width="100%" />
 
-<!-- Circular avatar with glow baked into the image itself (GitHub strips border-radius/box-shadow CSS on <img>, so the circle + neon ring are pre-rendered pixels, not styles) -->
+<!-- Circular avatar with glow baked into the image itself -->
 <img
-  src="./avatar.png"
+  src="https://raw.githubusercontent.com/yassinemeta/yassinemeta/main/avatar.png"
   width="180"
   style="margin-top:-95px;"
   alt="Mohamed Yassine Sellak"
@@ -52,7 +52,7 @@
 <br/>
 
 <!-- ============================== -->
-<!--           ABOUT ME            -->
+<!--            ABOUT ME            -->
 <!-- ============================== -->
 
 <table align="center" width="100%" style="border:1px solid #1c2b36; border-radius:12px; background:#0a0f14;">
