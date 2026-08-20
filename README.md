@@ -1,6 +1,7 @@
 <div align="center">
 
   <h1> ⚡ Mohamed Yassine Sellak ⚡ </h1>
+  <img src="profile.jpg" alt="Mohamed Yassine Sellak" width="150" height="150" style="border-radius: 50%;" />
 
   <h3>Full-Stack Developer | AI & Business Systems Automation Specialist</h3>
 
