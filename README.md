@@ -6,12 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,25:0d1b2a,60:0e2a3a,100:00f2fe&height=230&section=header&text=MOHAMED%20YASSINE%20SELLAK&fontSize=38&fontColor=00f2fe&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Business%20Systems%20Automation%20Specialist&descAlignY=54&descSize=16&descColor=b8ecff&animation=fadeIn" width="100%" />
 
-<!-- Circular avatar, glowing neon ring, pulled slightly up into the banner -->
+<!-- Circular avatar with glow baked into the image itself (GitHub strips border-radius/box-shadow CSS on <img>, so the circle + neon ring are pre-rendered pixels, not styles) -->
 <img
-  src="./IMG-20251104-WA0046.jpg.jpeg"
-  width="150"
-  height="150"
-  style="border-radius:50%; object-fit:cover; margin-top:-90px; border:3px solid #00f2fe; box-shadow:0 0 10px #00f2fe, 0 0 24px rgba(0,242,254,0.55), 0 0 48px rgba(0,242,254,0.25);"
+  src="./avatar.png"
+  width="180"
+  style="margin-top:-95px;"
   alt="Mohamed Yassine Sellak"
 />
 
