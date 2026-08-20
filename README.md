@@ -1,11 +1,14 @@
 <div align="center">
 
-<!-- BANNER -->
+<!-- ============================== -->
+<!--        HEADER / BANNER        -->
+<!-- ============================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,25:0d1b2a,60:0e2a3a,100:00f2fe&height=230&section=header&text=MOHAMED%20YASSINE%20SELLAK&fontSize=38&fontColor=00f2fe&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Business%20Systems%20Automation%20Specialist&descAlignY=54&descSize=16&descColor=b8ecff&animation=fadeIn" width="100%" />
 
 <br/><br/>
 
-<!-- PROFILE AVATAR -->
+<!-- Circular avatar without unsupported CSS properties -->
 <a href="https://yassinmeta.com">
   <img src="./avatar.png" width="170" height="170" alt="Mohamed Yassine Sellak" />
 </a>
@@ -25,7 +28,7 @@
 
 <br/><br/>
 
-<!-- CTA BUTTONS -->
+<!-- Primary CTA row -->
 <a href="https://yassinmeta.com">
   <img src="https://img.shields.io/badge/🌐_YassinMeta.com-00f2fe?style=for-the-badge&labelColor=0a0a12&color=00f2fe" />
 </a>
@@ -49,7 +52,10 @@
 
 <br/>
 
-<!-- ABOUT ME -->
+<!-- ============================== -->
+<!--           ABOUT ME            -->
+<!-- ============================== -->
+
 ### 🧠 About Me
 
 ```yaml
