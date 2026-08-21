@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<h2 style="color:#00f2fe; letter-spacing:1px;">👋 I'm Yassine — <code>@yassinemeta</code></h2>
+<h2 style="color:#00f2fe; letter-spacing:1px;">👋 I'm Mohamed Yassine — <code>@yassinemeta</code></h2>
 
 <p width="600">
   <i>Empowering businesses through scalable software, automated workflows,<br/>
