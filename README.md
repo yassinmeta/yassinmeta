@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<h2 style="color:#00f2fe; letter-spacing:1px;">👋 I'm Mohamed Yassine — <code>@yassinemeta</code></h2>
+<h2 style="color:#00f2fe; letter-spacing:1px;">👋 I'm Yassine — <code>@yassinemeta</code></h2>
 
 <p width="600">
   <i>Empowering businesses through scalable software, automated workflows,<br/>
@@ -96,17 +96,17 @@ currently:
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top" align="center" style="border:1px solid #1c2b36; border-radius:12px; padding:18px; background:#0a0f14;">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/>
+<h3>⚡</h3>
 <h4 style="color:#00f2fe;">AI Workflow Automation</h4>
 <sub>n8n · Make.com · GPT-4o pipelines that replace manual ops with autonomous systems.</sub>
 </td>
 <td width="33%" valign="top" align="center" style="border:1px solid #1c2b36; border-radius:12px; padding:18px; background:#0a0f14;">
-<img src="https://img.icons8.com/fluency/48/source-code.png" width="40"/>
+<h3>💻</h3>
 <h4 style="color:#00f2fe;">Web Development</h4>
 <sub>WordPress · Next.js builds engineered for speed, clarity, and conversion.</sub>
 </td>
 <td width="33%" valign="top" align="center" style="border:1px solid #1c2b36; border-radius:12px; padding:18px; background:#0a0f14;">
-<img src="https://img.icons8.com/fluency/48/search--v1.png" width="40"/>
+<h3>🔎</h3>
 <h4 style="color:#00f2fe;">GEO / AIO</h4>
 <sub>Positioning brands to be found, cited, and recommended by AI search engines.</sub>
 </td>
@@ -178,16 +178,16 @@ currently:
 
 ### 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yassinemeta&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a12&title_color=00f2fe&icon_color=00f2fe&text_color=b8ecff&ring_color=00f2fe" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemeta&layout=compact&theme=dark&hide_border=true&bg_color=0a0a12&title_color=00f2fe&text_color=b8ecff&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yassinmeta&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a12&title_color=00f2fe&icon_color=00f2fe&text_color=b8ecff&ring_color=00f2fe" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinmeta&layout=compact&theme=dark&hide_border=true&bg_color=0a0a12&title_color=00f2fe&text_color=b8ecff&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinemeta&theme=dark&hide_border=true&background=0A0A12&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideLabels=b8ecff&currStreakNum=b8ecff&sideNums=b8ecff&dates=7a8a95" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmeta&theme=dark&hide_border=true&background=0A0A12&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideLabels=b8ecff&currStreakNum=b8ecff&sideNums=b8ecff&dates=7a8a95" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinemeta&theme=react-dark&bg_color=0a0a12&color=00f2fe&line=00f2fe&point=b8ecff&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinmeta&theme=react-dark&bg_color=0a0a12&color=00f2fe&line=00f2fe&point=b8ecff&hide_border=true&area=true" width="100%" />
 
 </div>
 
