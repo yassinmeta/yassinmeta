@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<h2 style="color:#00f2fe; letter-spacing:1px;">👋 I'm Yassine — <code>@yassinemeta</code></h2>
+<h2 style="color:#00f2fe; letter-spacing:1px;">👋 I'm Mohamed Yassine — <code>@yassinemeta</code></h2>
 
 <p width="600">
   <i>Empowering businesses through scalable software, automated workflows,<br/>
@@ -184,10 +184,6 @@ currently:
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmeta&theme=dark&hide_border=true&background=0A0A12&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideLabels=b8ecff&currStreakNum=b8ecff&sideNums=b8ecff&dates=7a8a95" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinmeta&theme=react-dark&bg_color=0a0a12&color=00f2fe&line=00f2fe&point=b8ecff&hide_border=true&area=true" width="100%" />
 
 </div>
 
